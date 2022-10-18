@@ -1,0 +1,102 @@
+
+
+Java Study: https://www.javatpoint.com/java-tutorial
+Maven Repository: https://www.javatpoint.com/maven-tutorial
+
+
+Java 8 Features (https://www.youtube.com/watch?v=ePJrt5-G8eM)
+
+ What are RESTful Web services (https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+ CRUD Operations in RESTFUL APIs (https://www.youtube.com/watch?v=IucFDX3RO9U)
+ Rest API Tutorials Traditional Ways (https://www.youtube.com/watch?v=BZi44GOD8kY)
+
+ simple webapp using java and maven https://www.youtube.com/watch?v=YeC7XQho-O0
+ react tutorial : https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rx0k3
+ 
+ how to install mysql on windows:https://www.youtube.com/watch?v=WuBcTJnIuzo                             
+ 
+ Create mock service and Dynamic response using soapUI
+ https://www.youtube.com/watch?v=L2SMZ9bbDvE
+ 
+Camel Simple Video: https://www.youtube.com/watch?v=qljiLErTG1o
+
+
+Creating Rest APIs with Camel: https://www.youtube.com/watch?v=wFpAw0bpzns
+
+camel course - udemy link
+https://cognizant.udemy.com/course/apache-camel-framework-with-spring-boot/learn/lecture/24480234#overview
+
+Consuming Rest API from Java Program by adding dependent jars without maven project
+https://www.youtube.com/watch?v=c0apqyro0-Y
+Consuming Restful web service /Rest api in java Application using maven project
+https://www.youtube.com/watch?v=Fry7waUIJiY
+
+Spring Boot Microservices Study URL : https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+
+Azure Fundamentals	https://cognizant.udemy.com/course/microsoft-azure-beginners-guide/
+
+Docker Fundamentals	https://www.youtube.com/watch?v=fqMOX6JJhGo
+
+
+Circuit breaker - fault tolerance
+https://www.classcentral.com/course/youtube-spring-boot-microservices-level-2-fault-tolerance-and-resilience-45738/classroom
+
+
+ 
+ --------------------- TCSP DOCUMENT REFERENCE ----------------------------------------------------
+			
+https://docs.temenos.com/docs/Solutions/Technology/Design_Framework/Content/Design_Framework.html
+
+https://docs.temenos.com/docs/Solutions/Technology/Design_Framework/Workbench_V1/Data_Packager/Data_Packager_features/r_Temenos_Packager_FAQ.htm  (point 2)
+
+https://docs.temenos.com/docs/Solutions/Technology/Interaction_Framework/IRISR18/IRIS/IRISR18/IRFCatalogServices.htm
+
+https://docs.kony.com/konylibrary/konyfabric/kony_fabric_windows_install_guide/Default.htm
+
+
+
+--------uux link---------
+
+https://unified-ux.netlify.app/docs/components/form/code
+
+
+
+swagga pattern------------------------------------------------
+
+
+
+
+Theory: https://www.youtube.com/watch?v=aOen1-pQLZg
+
+ pattern: https://www.youtube.com/watch?v=6O5iJ7PKUhs
+
+
+
+Lombok setup in Eclipse/STS: https://www.baeldung.com/lombok-ide
+
+
+
+PMD is an open source static source code analyzer that reports on issues found within application code. 
+PMD includes built-in rule sets and supports the ability to write custom rules. 
+PMD does not report compilation errors, as it only can process well-formed source files.
+
+https://acanda.github.io/eclipse-pmd/getting-started.html
+
+configure this in you eclipse when you have some time guys.
+
+it will help you as a friend identifying coding gaps and bugs when you write some java code
+ 
+ 
+ javascript math 
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+ 
+ javascript string 
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+ 
+ 
+ using beeceptor for rest api 
+
+
+https://apicourse.free.beeceptor.com
+ 
+
